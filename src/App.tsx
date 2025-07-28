@@ -201,7 +201,7 @@ function App() {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-xl overflow-hidden bg-gray-900/50 backdrop-blur-sm border border-gray-800/50">
                 <img 
-                  src="/public/icon.png" 
+                  src="/icon.png" 
                   alt="Mind Maze Logo" 
                   className="w-full h-full object-cover"
                 />
@@ -940,7 +940,7 @@ function App() {
             <div className="flex items-center gap-3 mb-6 md:mb-0">
               <div className="w-8 h-8 rounded-xl overflow-hidden bg-gray-800/50 backdrop-blur-sm border border-gray-700/50">
                 <img 
-                  src="/public/icon.png" 
+                  src="/icon.png" 
                   alt="Mind Maze Logo" 
                   className="w-full h-full object-cover"
                 />
