@@ -270,7 +270,7 @@ function App() {
             <div className="inline-flex items-center gap-4 mb-6">
               <div className="w-16 h-16 rounded-2xl overflow-hidden bg-gray-900/50 backdrop-blur-sm border border-gray-800/50">
                 <img 
-                  src="/public/icon.png" 
+                  src="/icon.png" 
                   alt="Mind Maze Logo" 
                   className="w-full h-full object-cover"
                 />
