@@ -237,10 +237,10 @@ function App() {
 
             {/* Download Button */}
             <div className="hidden md:block">
-              <a href="https://expo.dev/accounts/2204abhay/projects/mindmaze/builds/e1a64260-3c13-40da-8f34-38dd283b3d1e" target="_blank" rel="noopener noreferrer" className="group relative px-6 py-2 bg-gradient-to-r from-orange-600 to-red-600 rounded-xl font-semibold text-sm transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-orange-500/25 inline-block">
+              <a href="https://drive.google.com/file/d/12l1JOoD91Sx8Emr_umNXh5lzhMcjSVH-/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="group relative px-6 py-2 bg-gradient-to-r from-orange-600 to-red-600 rounded-xl font-semibold text-sm transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-orange-500/25 inline-block">
                 <div className="flex items-center gap-2">
                   <Download className="w-4 h-4" />
-                  Download
+                  Google Drive Download
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-r from-orange-600 to-red-600 rounded-xl blur opacity-0 group-hover:opacity-30 transition-opacity duration-300"></div>
               </a>
@@ -291,10 +291,10 @@ function App() {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16">
-            <a href="https://expo.dev/accounts/2204abhay/projects/mindmaze/builds/e1a64260-3c13-40da-8f34-38dd283b3d1e" target="_blank" rel="noopener noreferrer" className="group relative px-8 py-4 bg-gradient-to-r from-orange-600 to-red-600 rounded-2xl font-semibold text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-orange-500/25 inline-block">
+            <a href="https://drive.google.com/file/d/12l1JOoD91Sx8Emr_umNXh5lzhMcjSVH-/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="group relative px-8 py-4 bg-gradient-to-r from-orange-600 to-red-600 rounded-2xl font-semibold text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-orange-500/25 inline-block">
               <div className="flex items-center gap-3">
                 <Download className="w-6 h-6" />
-                Download Now
+                Download Now 
                 <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
               </div>
               <div className="absolute inset-0 bg-gradient-to-r from-orange-600 to-red-600 rounded-2xl blur opacity-0 group-hover:opacity-50 transition-opacity duration-300"></div>
