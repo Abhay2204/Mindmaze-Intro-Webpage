@@ -32,9 +32,12 @@ Mindmaze-Intro-Webpage/
    ```
 
 2. **Open the webpage**
-   - Open `index.html` in your favorite browser.
+   -install dependencieis 'npm install'
+   -run app "npm run dev"
+  
+     
 
-3. **Customize**
+4. **Customize**
    - Replace sample images and text in the `assets/` folder and `index.html` as needed.
 
 ## ✨ Customization
